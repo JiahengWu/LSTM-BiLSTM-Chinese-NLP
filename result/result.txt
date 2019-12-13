@@ -1,0 +1,11 @@
+epoch:0   dev_accuracy: 0.400000
+epoch:100   dev_accuracy: 0.800000
+epoch:200   dev_accuracy: 0.800000
+epoch:300   dev_accuracy: 0.800000
+epoch:400   dev_accuracy: 0.800000
+epoch:500   dev_accuracy: 0.800000
+epoch:600   dev_accuracy: 0.800000
+epoch:700   dev_accuracy: 0.800000
+epoch:800   dev_accuracy: 0.800000
+epoch:900   dev_accuracy: 0.800000
+test_accuracy: 0.800000

@@ -1,0 +1,3 @@
+model_checkpoint_path: "E:\\python_project\\Chinese_wue\\result\\bestmodelckpt\\bestmodel.ckpt"
+all_model_checkpoint_paths: "E:\\python_project\\Chinese_wue\\result\\modelckpt\\model.ckpt"
+all_model_checkpoint_paths: "E:\\python_project\\Chinese_wue\\result\\bestmodelckpt\\bestmodel.ckpt"
